@@ -1,1 +1,5 @@
-# MY
+👋 Hi, I’m @bestbaha
+👀 I’m interested in video games
+🌱 I’m currently learning  development
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ...
